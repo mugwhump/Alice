@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 337e7cf6c9a5ea14daad00e57b63326c
+timeCreated: 1428718408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group_pasted__pCylinder1
+    100008: pasted__pCube10
+    100010: pasted__pCube11
+    100012: pasted__pCube12
+    100014: pasted__pCube13
+    100016: pasted__pCube2
+    100018: pasted__pCube3
+    100020: pasted__pCube4
+    100022: pasted__pCube7
+    100024: pasted__pCube8
+    100026: pasted__pCube9
+    100028: pasted__pCylinder1
+    100030: pasted__pCylinder1 1
+    100032: pPipe1
+    100034: transform1
+    100036: transform10
+    100038: transform11
+    100040: transform12
+    100042: transform13
+    100044: transform2
+    100046: transform3
+    100048: transform4
+    100050: transform5
+    100052: transform6
+    100054: transform7
+    100056: transform8
+    100058: transform9
+    100060: Flower_2:group
+    100062: Flower_2:group1
+    100064: Flower_2:group_pasted__pCylinder1
+    100066: Flower_2:pasted__pCube10
+    100068: Flower_2:pasted__pCube11
+    100070: Flower_2:pasted__pCube12
+    100072: Flower_2:pasted__pCube13
+    100074: Flower_2:pasted__pCube2
+    100076: Flower_2:pasted__pCube3
+    100078: Flower_2:pasted__pCube4
+    100080: Flower_2:pasted__pCube7
+    100082: Flower_2:pasted__pCube8
+    100084: Flower_2:pasted__pCube9
+    100086: Flower_2:pasted__pCylinder1
+    100088: Flower_2:pasted__pCylinder1 1
+    100090: Flower_2:pPipe1
+    100092: Flower_2:transform1
+    100094: Flower_2:transform10
+    100096: Flower_2:transform11
+    100098: Flower_2:transform12
+    100100: Flower_2:transform13
+    100102: Flower_2:transform2
+    100104: Flower_2:transform3
+    100106: Flower_2:transform4
+    100108: Flower_2:transform5
+    100110: Flower_2:transform6
+    100112: Flower_2:transform7
+    100114: Flower_2:transform8
+    100116: Flower_2:transform9
+    100118: joint1
+    100120: joint10
+    100122: joint10 1
+    100124: joint12
+    100126: joint12 1
+    100128: joint13
+    100130: joint14
+    100132: joint16
+    100134: joint16 1
+    100136: joint16 2
+    100138: joint16 3
+    100140: joint16 4
+    100142: joint16 5
+    100144: joint16 6
+    100146: joint17
+    100148: joint18
+    100150: joint19
+    100152: joint20
+    100154: joint21
+    100156: joint22
+    100158: joint23
+    100160: joint24
+    100162: joint25
+    100164: joint3
+    100166: joint5
+    100168: joint7
+    100170: joint8
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group_pasted__pCylinder1
+    400008: pasted__pCube10
+    400010: pasted__pCube11
+    400012: pasted__pCube12
+    400014: pasted__pCube13
+    400016: pasted__pCube2
+    400018: pasted__pCube3
+    400020: pasted__pCube4
+    400022: pasted__pCube7
+    400024: pasted__pCube8
+    400026: pasted__pCube9
+    400028: pasted__pCylinder1
+    400030: pasted__pCylinder1 1
+    400032: pPipe1
+    400034: transform1
+    400036: transform10
+    400038: transform11
+    400040: transform12
+    400042: transform13
+    400044: transform2
+    400046: transform3
+    400048: transform4
+    400050: transform5
+    400052: transform6
+    400054: transform7
+    400056: transform8
+    400058: transform9
+    400060: Flower_2:group
+    400062: Flower_2:group1
+    400064: Flower_2:group_pasted__pCylinder1
+    400066: Flower_2:pasted__pCube10
+    400068: Flower_2:pasted__pCube11
+    400070: Flower_2:pasted__pCube12
+    400072: Flower_2:pasted__pCube13
+    400074: Flower_2:pasted__pCube2
+    400076: Flower_2:pasted__pCube3
+    400078: Flower_2:pasted__pCube4
+    400080: Flower_2:pasted__pCube7
+    400082: Flower_2:pasted__pCube8
+    400084: Flower_2:pasted__pCube9
+    400086: Flower_2:pasted__pCylinder1
+    400088: Flower_2:pasted__pCylinder1 1
+    400090: Flower_2:pPipe1
+    400092: Flower_2:transform1
+    400094: Flower_2:transform10
+    400096: Flower_2:transform11
+    400098: Flower_2:transform12
+    400100: Flower_2:transform13
+    400102: Flower_2:transform2
+    400104: Flower_2:transform3
+    400106: Flower_2:transform4
+    400108: Flower_2:transform5
+    400110: Flower_2:transform6
+    400112: Flower_2:transform7
+    400114: Flower_2:transform8
+    400116: Flower_2:transform9
+    400118: joint1
+    400120: joint10
+    400122: joint10 1
+    400124: joint12
+    400126: joint12 1
+    400128: joint13
+    400130: joint14
+    400132: joint16
+    400134: joint16 1
+    400136: joint16 2
+    400138: joint16 3
+    400140: joint16 4
+    400142: joint16 5
+    400144: joint16 6
+    400146: joint17
+    400148: joint18
+    400150: joint19
+    400152: joint20
+    400154: joint21
+    400156: joint22
+    400158: joint23
+    400160: joint24
+    400162: joint25
+    400164: joint3
+    400166: joint5
+    400168: joint7
+    400170: joint8
+    2300000: group_pasted__pCylinder1
+    3300000: group_pasted__pCylinder1
+    4300000: group_pasted__pCylinder1
+    4300002: Flower_2:group_pasted__pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Flower_2:group_pasted__pCylinder1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

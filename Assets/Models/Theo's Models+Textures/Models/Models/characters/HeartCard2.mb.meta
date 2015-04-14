@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: ad4d6c84e5fccb9499788497d2ab62be
+timeCreated: 1428718477
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmLeft 1
+    100004: ArmLeft 2
+    100006: ArmRight
+    100008: ArmRight 1
+    100010: ArmRight 2
+    100012: BackBone
+    100014: BackBone1
+    100016: BackBone3
+    100018: bagub
+    100020: Body
+    100022: Body1
+    100024: Body2
+    100026: Cheek1Left
+    100028: Cheek1Left 1
+    100030: Cheek1Left 2
+    100032: Cheek1Right
+    100034: Cheek1Right 1
+    100036: Cheek1Right 2
+    100038: Cheek2Left
+    100040: Cheek2Left 1
+    100042: Cheek2Left 2
+    100044: Cheek2Right
+    100046: Cheek2Right 1
+    100048: Cheek2Right 2
+    100050: EyeLeft
+    100052: EyeLeft 1
+    100054: EyeLeft 2
+    100056: EyeRight
+    100058: EyeRight 1
+    100060: EyeRight 2
+    100062: Face
+    100064: Face 1
+    100066: Face 2
+    100068: GloveLeft
+    100070: HandLeft
+    100072: HandLeft1
+    100074: HandLeft2
+    100076: HandLeft2 1
+    100078: HandLeft2 2
+    100080: HandLeftHistoryItems
+    100082: HandRight
+    100084: HandRight 1
+    100086: HandRight 2
+    100088: Head
+    100090: Head 1
+    100092: Head 2
+    100094: //RootNode
+    100096: ikHandle1
+    100098: ikHandle10
+    100100: ikHandle2
+    100102: ikHandle3
+    100104: ikHandle4
+    100106: ikHandle5
+    100108: ikHandle6
+    100110: ikHandle7
+    100112: ikHandle8
+    100114: ikHandle9
+    100116: joint10
+    100118: joint10 1
+    100120: joint10 2
+    100122: joint10 3
+    100124: joint10 4
+    100126: joint10 5
+    100128: joint12
+    100130: joint12 1
+    100132: joint12 2
+    100134: joint12 3
+    100136: joint12 4
+    100138: joint12 5
+    100140: joint14
+    100142: joint14 1
+    100144: joint14 2
+    100146: joint14 3
+    100148: joint14 4
+    100150: joint14 5
+    100152: joint15
+    100154: joint15 1
+    100156: joint15 2
+    100158: joint15 3
+    100160: joint15 4
+    100162: joint15 5
+    100164: joint16
+    100166: joint16 1
+    100168: joint16 2
+    100170: joint16 3
+    100172: joint16 4
+    100174: joint16 5
+    100176: joint17
+    100178: joint17 1
+    100180: joint17 2
+    100182: joint17 3
+    100184: joint17 4
+    100186: joint17 5
+    100188: joint2
+    100190: joint2 1
+    100192: joint21
+    100194: joint21 1
+    100196: joint21 2
+    100198: joint21 3
+    100200: joint21 4
+    100202: joint21 5
+    100204: joint22
+    100206: joint24
+    100208: joint24 1
+    100210: joint24 2
+    100212: joint24 3
+    100214: joint24 4
+    100216: joint24 5
+    100218: joint25
+    100220: joint25 1
+    100222: joint25 2
+    100224: joint25 3
+    100226: joint25 4
+    100228: joint25 5
+    100230: joint26
+    100232: joint26 1
+    100234: joint26 2
+    100236: joint26 3
+    100238: joint26 4
+    100240: joint26 5
+    100242: joint27
+    100244: joint27 1
+    100246: joint27 2
+    100248: joint27 3
+    100250: joint27 4
+    100252: joint27 5
+    100254: joint28
+    100256: joint28 1
+    100258: joint28 2
+    100260: joint28 3
+    100262: joint28 4
+    100264: joint28 5
+    100266: joint3
+    100268: joint3 1
+    100270: joint3 2
+    100272: joint30
+    100274: joint30 1
+    100276: joint30 10
+    100278: joint30 11
+    100280: joint30 2
+    100282: joint30 3
+    100284: joint30 4
+    100286: joint30 5
+    100288: joint30 6
+    100290: joint30 7
+    100292: joint30 8
+    100294: joint30 9
+    100296: joint32
+    100298: joint32 1
+    100300: joint32 2
+    100302: joint33
+    100304: joint33 1
+    100306: joint33 2
+    100308: joint34
+    100310: joint34 1
+    100312: joint34 2
+    100314: joint4
+    100316: joint4 1
+    100318: joint5
+    100320: joint5 1
+    100322: joint5 2
+    100324: joint8
+    100326: joint8 1
+    100328: joint8 2
+    100330: joint8 3
+    100332: joint8 4
+    100334: joint8 5
+    100336: LegLeft
+    100338: legLeft
+    100340: LegLeft 1
+    100342: legLeft 1
+    100344: LegLeft 2
+    100346: legLeft 2
+    100348: LegRight
+    100350: legRight
+    100352: LegRight 1
+    100354: legRight 1
+    100356: LegRight 2
+    100358: legRight 2
+    100360: Mouth
+    100362: Mouth 1
+    100364: Mouth 2
+    100366: Neck
+    100368: Neck 1
+    100370: Neck 2
+    100372: Nose
+    100374: Nose 1
+    100376: Nose 2
+    100378: pCylinder1
+    100380: poobagub
+    100382: Rib1Left
+    100384: Rib1Left 1
+    100386: Rib1Right
+    100388: Rib1Right 1
+    100390: Rib2Left
+    100392: Rib2Left 1
+    100394: Rib2Right
+    100396: Rib2Right 1
+    100398: Rib3Left
+    100400: Rib3Left 1
+    100402: Rib3Right
+    100404: Rib3Right 1
+    100406: ShoeLeft
+    100408: ShoeLeft 1
+    100410: ShoeLeft 2
+    100412: ShoeRight
+    100414: ShoeRight 1
+    100416: ShoeRight 2
+    100418: Shoulders
+    100420: Shoulders 1
+    100422: Shoulders 2
+    100424: Spear
+    100426: Spear 1
+    100428: Spear 2
+    100430: SpearHead
+    100432: SpearHead 1
+    100434: SpearHead 2
+    100436: SpearShaft
+    100438: SpearShaft 1
+    100440: SpearShaft 2
+    100442: Teeth
+    100444: Teeth 1
+    100446: Teeth 2
+    100448: transform1
+    100450: transform2
+    100452: transform3
+    100454: transform4
+    400000: ArmLeft
+    400002: ArmLeft 1
+    400004: ArmLeft 2
+    400006: ArmRight
+    400008: ArmRight 1
+    400010: ArmRight 2
+    400012: BackBone
+    400014: BackBone1
+    400016: BackBone3
+    400018: bagub
+    400020: Body
+    400022: Body1
+    400024: Body2
+    400026: Cheek1Left
+    400028: Cheek1Left 1
+    400030: Cheek1Left 2
+    400032: Cheek1Right
+    400034: Cheek1Right 1
+    400036: Cheek1Right 2
+    400038: Cheek2Left
+    400040: Cheek2Left 1
+    400042: Cheek2Left 2
+    400044: Cheek2Right
+    400046: Cheek2Right 1
+    400048: Cheek2Right 2
+    400050: EyeLeft
+    400052: EyeLeft 1
+    400054: EyeLeft 2
+    400056: EyeRight
+    400058: EyeRight 1
+    400060: EyeRight 2
+    400062: Face
+    400064: Face 1
+    400066: Face 2
+    400068: GloveLeft
+    400070: HandLeft
+    400072: HandLeft1
+    400074: HandLeft2
+    400076: HandLeft2 1
+    400078: HandLeft2 2
+    400080: HandLeftHistoryItems
+    400082: HandRight
+    400084: HandRight 1
+    400086: HandRight 2
+    400088: Head
+    400090: Head 1
+    400092: Head 2
+    400094: //RootNode
+    400096: ikHandle1
+    400098: ikHandle10
+    400100: ikHandle2
+    400102: ikHandle3
+    400104: ikHandle4
+    400106: ikHandle5
+    400108: ikHandle6
+    400110: ikHandle7
+    400112: ikHandle8
+    400114: ikHandle9
+    400116: joint10
+    400118: joint10 1
+    400120: joint10 2
+    400122: joint10 3
+    400124: joint10 4
+    400126: joint10 5
+    400128: joint12
+    400130: joint12 1
+    400132: joint12 2
+    400134: joint12 3
+    400136: joint12 4
+    400138: joint12 5
+    400140: joint14
+    400142: joint14 1
+    400144: joint14 2
+    400146: joint14 3
+    400148: joint14 4
+    400150: joint14 5
+    400152: joint15
+    400154: joint15 1
+    400156: joint15 2
+    400158: joint15 3
+    400160: joint15 4
+    400162: joint15 5
+    400164: joint16
+    400166: joint16 1
+    400168: joint16 2
+    400170: joint16 3
+    400172: joint16 4
+    400174: joint16 5
+    400176: joint17
+    400178: joint17 1
+    400180: joint17 2
+    400182: joint17 3
+    400184: joint17 4
+    400186: joint17 5
+    400188: joint2
+    400190: joint2 1
+    400192: joint21
+    400194: joint21 1
+    400196: joint21 2
+    400198: joint21 3
+    400200: joint21 4
+    400202: joint21 5
+    400204: joint22
+    400206: joint24
+    400208: joint24 1
+    400210: joint24 2
+    400212: joint24 3
+    400214: joint24 4
+    400216: joint24 5
+    400218: joint25
+    400220: joint25 1
+    400222: joint25 2
+    400224: joint25 3
+    400226: joint25 4
+    400228: joint25 5
+    400230: joint26
+    400232: joint26 1
+    400234: joint26 2
+    400236: joint26 3
+    400238: joint26 4
+    400240: joint26 5
+    400242: joint27
+    400244: joint27 1
+    400246: joint27 2
+    400248: joint27 3
+    400250: joint27 4
+    400252: joint27 5
+    400254: joint28
+    400256: joint28 1
+    400258: joint28 2
+    400260: joint28 3
+    400262: joint28 4
+    400264: joint28 5
+    400266: joint3
+    400268: joint3 1
+    400270: joint3 2
+    400272: joint30
+    400274: joint30 1
+    400276: joint30 10
+    400278: joint30 11
+    400280: joint30 2
+    400282: joint30 3
+    400284: joint30 4
+    400286: joint30 5
+    400288: joint30 6
+    400290: joint30 7
+    400292: joint30 8
+    400294: joint30 9
+    400296: joint32
+    400298: joint32 1
+    400300: joint32 2
+    400302: joint33
+    400304: joint33 1
+    400306: joint33 2
+    400308: joint34
+    400310: joint34 1
+    400312: joint34 2
+    400314: joint4
+    400316: joint4 1
+    400318: joint5
+    400320: joint5 1
+    400322: joint5 2
+    400324: joint8
+    400326: joint8 1
+    400328: joint8 2
+    400330: joint8 3
+    400332: joint8 4
+    400334: joint8 5
+    400336: LegLeft
+    400338: legLeft
+    400340: LegLeft 1
+    400342: legLeft 1
+    400344: LegLeft 2
+    400346: legLeft 2
+    400348: LegRight
+    400350: legRight
+    400352: LegRight 1
+    400354: legRight 1
+    400356: LegRight 2
+    400358: legRight 2
+    400360: Mouth
+    400362: Mouth 1
+    400364: Mouth 2
+    400366: Neck
+    400368: Neck 1
+    400370: Neck 2
+    400372: Nose
+    400374: Nose 1
+    400376: Nose 2
+    400378: pCylinder1
+    400380: poobagub
+    400382: Rib1Left
+    400384: Rib1Left 1
+    400386: Rib1Right
+    400388: Rib1Right 1
+    400390: Rib2Left
+    400392: Rib2Left 1
+    400394: Rib2Right
+    400396: Rib2Right 1
+    400398: Rib3Left
+    400400: Rib3Left 1
+    400402: Rib3Right
+    400404: Rib3Right 1
+    400406: ShoeLeft
+    400408: ShoeLeft 1
+    400410: ShoeLeft 2
+    400412: ShoeRight
+    400414: ShoeRight 1
+    400416: ShoeRight 2
+    400418: Shoulders
+    400420: Shoulders 1
+    400422: Shoulders 2
+    400424: Spear
+    400426: Spear 1
+    400428: Spear 2
+    400430: SpearHead
+    400432: SpearHead 1
+    400434: SpearHead 2
+    400436: SpearShaft
+    400438: SpearShaft 1
+    400440: SpearShaft 2
+    400442: Teeth
+    400444: Teeth 1
+    400446: Teeth 2
+    400448: transform1
+    400450: transform2
+    400452: transform3
+    400454: transform4
+    2300000: Body1
+    2300002: Body2
+    2300004: EyeLeft
+    2300006: EyeLeft 1
+    2300008: EyeRight
+    2300010: EyeRight 1
+    2300012: Face
+    2300014: Face 1
+    2300016: HandLeft2
+    2300018: HandLeft2 1
+    2300020: HandRight
+    2300022: HandRight 1
+    2300024: Head
+    2300026: Head 1
+    2300028: legLeft
+    2300030: legLeft 1
+    2300032: legRight
+    2300034: legRight 1
+    2300036: Mouth
+    2300038: Mouth 1
+    2300040: Nose
+    2300042: Nose 1
+    2300044: ShoeLeft
+    2300046: ShoeLeft 1
+    2300048: ShoeRight
+    2300050: ShoeRight 1
+    2300052: Shoulders
+    2300054: Shoulders 1
+    2300056: SpearHead
+    2300058: SpearHead 1
+    2300060: SpearShaft
+    2300062: SpearShaft 1
+    2300064: Teeth
+    2300066: Teeth 1
+    3300000: Body1
+    3300002: Body2
+    3300004: EyeLeft
+    3300006: EyeLeft 1
+    3300008: EyeRight
+    3300010: EyeRight 1
+    3300012: Face
+    3300014: Face 1
+    3300016: HandLeft2
+    3300018: HandLeft2 1
+    3300020: HandRight
+    3300022: HandRight 1
+    3300024: Head
+    3300026: Head 1
+    3300028: legLeft
+    3300030: legLeft 1
+    3300032: legRight
+    3300034: legRight 1
+    3300036: Mouth
+    3300038: Mouth 1
+    3300040: Nose
+    3300042: Nose 1
+    3300044: ShoeLeft
+    3300046: ShoeLeft 1
+    3300048: ShoeRight
+    3300050: ShoeRight 1
+    3300052: Shoulders
+    3300054: Shoulders 1
+    3300056: SpearHead
+    3300058: SpearHead 1
+    3300060: SpearShaft
+    3300062: SpearShaft 1
+    3300064: Teeth
+    3300066: Teeth 1
+    4300000: Body2
+    4300002: Head
+    4300004: Face
+    4300006: Mouth
+    4300008: Teeth
+    4300010: Nose
+    4300012: EyeRight
+    4300014: EyeLeft
+    4300016: Shoulders
+    4300018: HandLeft2
+    4300020: SpearShaft
+    4300022: SpearHead
+    4300024: HandRight
+    4300026: legLeft
+    4300028: ShoeLeft
+    4300030: legRight
+    4300032: ShoeRight
+    4300034: Body1
+    4300036: Head
+    4300038: Face
+    4300040: Mouth
+    4300042: Teeth
+    4300044: Nose
+    4300046: EyeRight
+    4300048: EyeLeft
+    4300050: Shoulders
+    4300052: HandLeft2
+    4300054: SpearShaft
+    4300056: SpearHead
+    4300058: HandRight
+    4300060: legLeft
+    4300062: ShoeLeft
+    4300064: legRight
+    4300066: ShoeRight
+    4300068: Head
+    4300070: Face
+    4300072: Mouth
+    4300074: Teeth
+    4300076: Nose
+    4300078: EyeRight
+    4300080: EyeLeft
+    4300082: Shoulders
+    4300084: HandLeft2
+    4300086: SpearShaft
+    4300088: SpearHead
+    4300090: HandRight
+    4300092: legLeft
+    4300094: ShoeLeft
+    4300096: legRight
+    4300098: ShoeRight
+    9500000: //RootNode
+    13700000: EyeLeft 2
+    13700002: EyeRight 2
+    13700004: Face 2
+    13700006: HandLeft2 2
+    13700008: HandRight 2
+    13700010: Head 2
+    13700012: legLeft 2
+    13700014: legRight 2
+    13700016: Mouth 2
+    13700018: Nose 2
+    13700020: ShoeLeft 2
+    13700022: ShoeRight 2
+    13700024: Shoulders 2
+    13700026: SpearHead 2
+    13700028: SpearShaft 2
+    13700030: Teeth 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
