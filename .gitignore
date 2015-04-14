@@ -2,3 +2,5 @@ Library
 Temp
 desktop.ini
 desktop.ini.meta
+*.sln
+*.csproj

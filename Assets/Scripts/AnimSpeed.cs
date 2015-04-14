@@ -3,7 +3,8 @@ using System.Collections;
 
 public class AnimSpeed : MonoBehaviour {
 	public float startingSpeed;
-	public float acceleration;
+	public float minSpeed;
+	public float acceleration; //per second
 
 	// Use this for initialization
 	void Start () {
@@ -17,7 +18,11 @@ public class AnimSpeed : MonoBehaviour {
 	void Update () {
 		Animation anim = GetComponent<Animation>();
 		foreach (AnimationState state in anim) {
-			state.speed += acceleration;
+			state.speed += acceleration * Time.deltaTime;
+			if(state.speed < minSpeed) {
+				state.speed = minSpeed;
+			}
+			Debug.Log ("Speed: " + state.speed + ", acc: " + acceleration);
 		}
 	}
 }

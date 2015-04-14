@@ -15,9 +15,7 @@ public class Accelerate : MonoBehaviour {
 	}
 
 	void OnTriggerEnter (Collider other) {
-		Animation anim = other.gameObject.GetComponentInParent<Animation>();
-		foreach (AnimationState state in anim) {
-			state.speed += acceleration;
-		}
+		AnimSpeed a = other.gameObject.GetComponentInParent<AnimSpeed>();
+		a.acceleration = acceleration;
 	}
 }

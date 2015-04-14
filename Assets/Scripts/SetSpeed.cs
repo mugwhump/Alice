@@ -2,13 +2,14 @@
 using System.Collections;
 
 public class SetSpeed : MonoBehaviour {
-	public float speed;
+	public float constantSpeed;
 	
 	void OnTriggerEnter (Collider other) {
-		Debug.Log ("SPEEEED");
 		Animation anim = other.gameObject.GetComponentInParent<Animation> ();
 		foreach (AnimationState state in anim) {
-			state.speed = speed;
+			state.speed = constantSpeed;
 		}
+		AnimSpeed a = other.gameObject.GetComponentInParent<AnimSpeed>();
+		a.acceleration = 0;
 	}
 }
