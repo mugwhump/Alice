@@ -22,10 +22,15 @@ public class AnimSpeed : MonoBehaviour {
 			if(state.speed < minSpeed) {
 				state.speed = minSpeed;
 			}
-			if(Input.anyKey) {
-				state.speed = 10f; //fast-forward
+			if(Input.anyKeyDown) {
+				if(state.speed >= 10f) {
+					state.speed = 1f; //fast-forward
+				}
+				else {
+					state.speed = 10f; //fast-forward
+				}
 			}
-			Debug.Log ("Speed: " + state.speed + ", acc: " + acceleration);
+			//Debug.Log ("Speed: " + state.speed + ", acc: " + acceleration);
 		}
 	}
 }

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AnimSpeed.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TriggerAnimation.cs" Line="11" Column="26" />
+      <File FileName="Assets\Scripts\AnimSpeed.cs" Line="25" Column="23" />
+      <File FileName="Assets\Scripts\SetSpeed.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
