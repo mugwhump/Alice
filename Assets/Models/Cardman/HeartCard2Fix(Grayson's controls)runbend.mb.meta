@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: 5433c5b9f4ab575479e7e549b5d51536
+timeCreated: 1429187127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: Body3
+    100006: BodyControl
+    100008: Cheek1Left
+    100010: Cheek1Right
+    100012: Cheek2Left
+    100014: Cheek2Right
+    100016: clusterLower
+    100018: clusterUpper
+    100020: curve1
+    100022: EyeLeft
+    100024: EyeRight
+    100026: Face
+    100028: HandLeft2
+    100030: HandRight
+    100032: Head
+    100034: //RootNode
+    100036: ikHandle11
+    100038: ikHandle12
+    100040: ikHandle13
+    100042: ikHandle14
+    100044: ikHandle15
+    100046: ikHandle16
+    100048: ikHandle17
+    100050: ikHandle18
+    100052: joint10
+    100054: joint10 1
+    100056: joint12
+    100058: joint12 1
+    100060: joint15
+    100062: joint15 1
+    100064: joint17
+    100066: joint17 1
+    100068: joint24
+    100070: joint24 1
+    100072: joint26
+    100074: joint26 1
+    100076: joint27
+    100078: joint27 1
+    100080: joint28
+    100082: joint28 1
+    100084: joint30
+    100086: joint30 1
+    100088: joint30 2
+    100090: joint30 3
+    100092: joint32
+    100094: joint33
+    100096: joint34
+    100098: joint35
+    100100: joint36
+    100102: joint37
+    100104: joint38
+    100106: joint39
+    100108: joint40
+    100110: joint41
+    100112: joint42
+    100114: joint8
+    100116: joint8 1
+    100118: leftAnklePivot
+    100120: leftArmControl
+    100122: leftArmIK
+    100124: leftElbow
+    100126: leftElbowControl
+    100128: leftFootControl
+    100130: leftForearm
+    100132: leftHeelPivot
+    100134: leftSwivelPivot
+    100136: leftToeTapPivot
+    100138: leftToeTipPivot
+    100140: LegLeft
+    100142: legLeft
+    100144: LegRight
+    100146: legRight
+    100148: LowerBackControl
+    100150: MidBackControl
+    100152: Mouth
+    100154: Neck
+    100156: neckControl
+    100158: neckIK
+    100160: Nose
+    100162: Rib1Left
+    100164: Rib1Right
+    100166: Rib2Left
+    100168: Rib2Right
+    100170: rightAnklePivot
+    100172: rightArmControl
+    100174: rightArmIK
+    100176: rightElbow
+    100178: rightElbowControl
+    100180: rightFootControl
+    100182: rightForearm
+    100184: rightHeelPivot
+    100186: rightSwivelPivot
+    100188: rightToeTapPivot
+    100190: rightToeTipPivot
+    100192: rotator
+    100194: ShoeLeft
+    100196: ShoeRight
+    100198: Shoulders
+    100200: SkeletonGroup
+    100202: Spear
+    100204: SpearHead
+    100206: SpearShaft
+    100208: SuperMover
+    100210: swordControl
+    100212: Teeth
+    100214: UpperBackControl
+    400000: ArmLeft
+    400002: ArmRight
+    400004: Body3
+    400006: BodyControl
+    400008: Cheek1Left
+    400010: Cheek1Right
+    400012: Cheek2Left
+    400014: Cheek2Right
+    400016: clusterLower
+    400018: clusterUpper
+    400020: curve1
+    400022: EyeLeft
+    400024: EyeRight
+    400026: Face
+    400028: HandLeft2
+    400030: HandRight
+    400032: Head
+    400034: //RootNode
+    400036: ikHandle11
+    400038: ikHandle12
+    400040: ikHandle13
+    400042: ikHandle14
+    400044: ikHandle15
+    400046: ikHandle16
+    400048: ikHandle17
+    400050: ikHandle18
+    400052: joint10
+    400054: joint10 1
+    400056: joint12
+    400058: joint12 1
+    400060: joint15
+    400062: joint15 1
+    400064: joint17
+    400066: joint17 1
+    400068: joint24
+    400070: joint24 1
+    400072: joint26
+    400074: joint26 1
+    400076: joint27
+    400078: joint27 1
+    400080: joint28
+    400082: joint28 1
+    400084: joint30
+    400086: joint30 1
+    400088: joint30 2
+    400090: joint30 3
+    400092: joint32
+    400094: joint33
+    400096: joint34
+    400098: joint35
+    400100: joint36
+    400102: joint37
+    400104: joint38
+    400106: joint39
+    400108: joint40
+    400110: joint41
+    400112: joint42
+    400114: joint8
+    400116: joint8 1
+    400118: leftAnklePivot
+    400120: leftArmControl
+    400122: leftArmIK
+    400124: leftElbow
+    400126: leftElbowControl
+    400128: leftFootControl
+    400130: leftForearm
+    400132: leftHeelPivot
+    400134: leftSwivelPivot
+    400136: leftToeTapPivot
+    400138: leftToeTipPivot
+    400140: LegLeft
+    400142: legLeft
+    400144: LegRight
+    400146: legRight
+    400148: LowerBackControl
+    400150: MidBackControl
+    400152: Mouth
+    400154: Neck
+    400156: neckControl
+    400158: neckIK
+    400160: Nose
+    400162: Rib1Left
+    400164: Rib1Right
+    400166: Rib2Left
+    400168: Rib2Right
+    400170: rightAnklePivot
+    400172: rightArmControl
+    400174: rightArmIK
+    400176: rightElbow
+    400178: rightElbowControl
+    400180: rightFootControl
+    400182: rightForearm
+    400184: rightHeelPivot
+    400186: rightSwivelPivot
+    400188: rightToeTapPivot
+    400190: rightToeTipPivot
+    400192: rotator
+    400194: ShoeLeft
+    400196: ShoeRight
+    400198: Shoulders
+    400200: SkeletonGroup
+    400202: Spear
+    400204: SpearHead
+    400206: SpearShaft
+    400208: SuperMover
+    400210: swordControl
+    400212: Teeth
+    400214: UpperBackControl
+    4300000: Body3
+    4300002: Head
+    4300004: Face
+    4300006: Mouth
+    4300008: Teeth
+    4300010: Nose
+    4300012: EyeRight
+    4300014: EyeLeft
+    4300016: Shoulders
+    4300018: HandLeft2
+    4300020: SpearShaft
+    4300022: SpearHead
+    4300024: HandRight
+    4300026: legLeft
+    4300028: ShoeLeft
+    4300030: legRight
+    4300032: ShoeRight
+    7400000: Run
+    7400002: EndRunBend
+    7400004: Bend
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body3
+    13700002: EyeLeft
+    13700004: EyeRight
+    13700006: Face
+    13700008: HandLeft2
+    13700010: HandRight
+    13700012: Head
+    13700014: legLeft
+    13700016: legRight
+    13700018: Mouth
+    13700020: Nose
+    13700022: ShoeLeft
+    13700024: ShoeRight
+    13700026: Shoulders
+    13700028: SpearHead
+    13700030: SpearShaft
+    13700032: Teeth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body3
+        weight: 1
+      - path: Body3/HandLeft2
+        weight: 1
+      - path: Body3/HandLeft2/Spear
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearHead
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearShaft
+        weight: 1
+      - path: Body3/HandRight
+        weight: 1
+      - path: Body3/Head
+        weight: 1
+      - path: Body3/Head/Face
+        weight: 1
+      - path: Body3/Head/Face/EyeLeft
+        weight: 1
+      - path: Body3/Head/Face/EyeRight
+        weight: 1
+      - path: Body3/Head/Face/Mouth
+        weight: 1
+      - path: Body3/Head/Face/Mouth/Teeth
+        weight: 1
+      - path: Body3/Head/Face/Nose
+        weight: 1
+      - path: Body3/legLeft
+        weight: 1
+      - path: Body3/legLeft/ShoeLeft
+        weight: 1
+      - path: Body3/legRight
+        weight: 1
+      - path: Body3/legRight/ShoeRight
+        weight: 1
+      - path: Body3/Shoulders
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: ikHandle11
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/SkeletonGroup
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28/joint34
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1/joint28 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/joint33
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left/joint30
+          2
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right/joint30
+          3
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left/joint30
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right/joint30 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15/joint17
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1/joint17 1
+        weight: 1
+      - path: rotator/SuperMover
+        weight: 1
+      - path: rotator/SuperMover/BodyControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl/clusterLower
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/clusterUpper
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl/leftElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftForearm
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl/ikHandle18
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl/neckIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl/rightElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightForearm
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot/ikHandle13
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle16
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle17
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot/ikHandle12
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle14
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: EndRunBend
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 121
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body3
+        weight: 1
+      - path: Body3/HandLeft2
+        weight: 1
+      - path: Body3/HandLeft2/Spear
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearHead
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearShaft
+        weight: 1
+      - path: Body3/HandRight
+        weight: 1
+      - path: Body3/Head
+        weight: 1
+      - path: Body3/Head/Face
+        weight: 1
+      - path: Body3/Head/Face/EyeLeft
+        weight: 1
+      - path: Body3/Head/Face/EyeRight
+        weight: 1
+      - path: Body3/Head/Face/Mouth
+        weight: 1
+      - path: Body3/Head/Face/Mouth/Teeth
+        weight: 1
+      - path: Body3/Head/Face/Nose
+        weight: 1
+      - path: Body3/legLeft
+        weight: 1
+      - path: Body3/legLeft/ShoeLeft
+        weight: 1
+      - path: Body3/legRight
+        weight: 1
+      - path: Body3/legRight/ShoeRight
+        weight: 1
+      - path: Body3/Shoulders
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: ikHandle11
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/SkeletonGroup
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28/joint34
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1/joint28 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/joint33
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left/joint30
+          2
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right/joint30
+          3
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left/joint30
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right/joint30 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15/joint17
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1/joint17 1
+        weight: 1
+      - path: rotator/SuperMover
+        weight: 1
+      - path: rotator/SuperMover/BodyControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl/clusterLower
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/clusterUpper
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl/leftElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftForearm
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl/ikHandle18
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl/neckIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl/rightElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightForearm
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot/ikHandle13
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle16
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle17
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot/ikHandle12
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle14
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Bend
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 121
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body3
+        weight: 1
+      - path: Body3/HandLeft2
+        weight: 1
+      - path: Body3/HandLeft2/Spear
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearHead
+        weight: 1
+      - path: Body3/HandLeft2/Spear/SpearShaft
+        weight: 1
+      - path: Body3/HandRight
+        weight: 1
+      - path: Body3/Head
+        weight: 1
+      - path: Body3/Head/Face
+        weight: 1
+      - path: Body3/Head/Face/EyeLeft
+        weight: 1
+      - path: Body3/Head/Face/EyeRight
+        weight: 1
+      - path: Body3/Head/Face/Mouth
+        weight: 1
+      - path: Body3/Head/Face/Mouth/Teeth
+        weight: 1
+      - path: Body3/Head/Face/Nose
+        weight: 1
+      - path: Body3/legLeft
+        weight: 1
+      - path: Body3/legLeft/ShoeLeft
+        weight: 1
+      - path: Body3/legRight
+        weight: 1
+      - path: Body3/legRight/ShoeRight
+        weight: 1
+      - path: Body3/Shoulders
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: ikHandle11
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/SkeletonGroup
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmLeft/joint24/joint26/joint27/joint28/joint34
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/ArmRight/joint24
+          1/joint26 1/joint27 1/joint28 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/Cheek1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/Cheek2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/Neck/joint32/joint33
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Left/joint30
+          2
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/joint38/joint39/Rib2Right/joint30
+          3
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Left/joint30
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/joint36/joint37/Rib1Right/joint30 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegLeft/joint8/joint10/joint12/joint15/joint17
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1
+        weight: 1
+      - path: rotator/SkeletonGroup/joint35/LegRight/joint8 1/joint10 1/joint12 1/joint15
+          1/joint17 1
+        weight: 1
+      - path: rotator/SuperMover
+        weight: 1
+      - path: rotator/SuperMover/BodyControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/LowerBackControl/clusterLower
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/clusterUpper
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftElbowControl/leftElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/leftForearm
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/leftArmControl/swordControl/ikHandle18
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/neckControl/neckIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightArmIK
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightElbowControl/rightElbow
+        weight: 1
+      - path: rotator/SuperMover/BodyControl/MidBackControl/UpperBackControl/rightArmControl/rightForearm
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftHeelPivot/ikHandle13
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle16
+        weight: 1
+      - path: rotator/SuperMover/leftFootControl/leftAnklePivot/leftToeTipPivot/leftSwivelPivot/leftToeTapPivot/ikHandle17
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightHeelPivot/ikHandle12
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle14
+        weight: 1
+      - path: rotator/SuperMover/rightFootControl/rightAnklePivot/rightToeTipPivot/rightSwivelPivot/rightToeTapPivot/ikHandle15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: joint35
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
