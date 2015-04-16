@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class RunToTarget : StateMachineBehaviour {
+public class RunToTargetSM : StateMachineBehaviour {
 	public Transform target;
 	public float speed;
 
@@ -23,8 +23,10 @@ public class RunToTarget : StateMachineBehaviour {
 	// OnStateMove is called right after Animator.OnAnimatorMove(). Code that processes and affects root motion should be implemented here
 	override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
 		Vector3 newPosition = animator.transform.position;
-		newPosition.z += animator.GetFloat("Runspeed") * Time.deltaTime; 
+		newPosition.z += speed * Time.deltaTime; 
 		animator.transform.position = newPosition;
+
+		animator.transform.LookAt (target.transform);
 	}
 
 	// OnStateIK is called right after Animator.OnAnimatorIK(). Code that sets up animation IK (inverse kinematics) should be implemented here.
