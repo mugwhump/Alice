@@ -25,8 +25,8 @@ public class DoneSceneFadeInOut : MonoBehaviour
 //		if(sceneStarting)
 //			// ... call the StartScene function.
 //			StartScene();
-		if (sceneEnding)
-			EndScene ();
+//		if (sceneEnding)
+//			EndScene ();
 	}
 
 	void OnGUI(){
