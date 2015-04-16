@@ -200,7 +200,147 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Flower_2:group
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube2
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube2/Flower_2:transform12
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube3
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube3/Flower_2:transform11
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube4
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube4/Flower_2:transform10
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube7
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube7/Flower_2:transform9
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube8
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube8/Flower_2:transform8
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube9
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube9/Flower_2:transform7
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube10
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube10/Flower_2:transform6
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube11
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube11/Flower_2:transform5
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube12
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube12/Flower_2:transform4
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube13
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCube13/Flower_2:transform3
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCylinder1
+        weight: 1
+      - path: Flower_2:group/Flower_2:pasted__pCylinder1/Flower_2:transform13
+        weight: 1
+      - path: Flower_2:group1
+        weight: 1
+      - path: Flower_2:group1/Flower_2:pasted__pCylinder1 1
+        weight: 1
+      - path: Flower_2:group1/Flower_2:pasted__pCylinder1 1/Flower_2:transform2
+        weight: 1
+      - path: Flower_2:group_pasted__pCylinder1
+        weight: 1
+      - path: Flower_2:pPipe1
+        weight: 1
+      - path: Flower_2:pPipe1/Flower_2:transform1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint3
+        weight: 1
+      - path: joint1/joint3/joint5
+        weight: 1
+      - path: joint1/joint3/joint5/joint7
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint14
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint14/joint16
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint17
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint17/joint19
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint20
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint20/joint16 1
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint21
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint21/joint16 2
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint22
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint22/joint16 3
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint23
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint23/joint16 4
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint24
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint24/joint16 5
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint25
+        weight: 1
+      - path: joint1/joint3/joint5/joint7/joint18/joint25/joint16 6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint10 1
+        weight: 1
+      - path: joint1/joint8/joint10 1/joint12 1
+        weight: 1
+      - path: joint1/joint13
+        weight: 1
+      - path: joint1/joint13/joint10
+        weight: 1
+      - path: joint1/joint13/joint10/joint12
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []

@@ -6,6 +6,5 @@ public class SwitchSkybox : MonoBehaviour {
 	
 	void OnTriggerEnter (Collider other) {
 		RenderSettings.skybox = skybox;
-		Debug.Log ("HEY");
 	}
 }
