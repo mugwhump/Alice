@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class RunToTargetSM : StateMachineBehaviour {
-	public Transform target;
+	public static Transform target;
 	public float speed;
 
 	 // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
