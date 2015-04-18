@@ -570,7 +570,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activateThese:
   - {fileID: 0}
+  - {fileID: 0}
   deactivateThese:
+  - {fileID: 0}
   - {fileID: 0}
 --- !u!114 &11403608
 MonoBehaviour:
@@ -585,7 +587,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activateThese:
   - {fileID: 0}
+  - {fileID: 0}
   deactivateThese:
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
 --- !u!114 &11417690
@@ -601,7 +605,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activateThese:
   - {fileID: 0}
+  - {fileID: 0}
   deactivateThese:
+  - {fileID: 0}
   - {fileID: 0}
 --- !u!114 &11423684
 MonoBehaviour:
@@ -640,7 +646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54872912c0ab7674091c0033ce3eb199, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skybox: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  skybox: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 3}
 --- !u!114 &11428356
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -668,6 +674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   activateThese:
+  - {fileID: 0}
   - {fileID: 0}
   deactivateThese: []
 --- !u!114 &11441306
