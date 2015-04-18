@@ -22,9 +22,9 @@ public class AnimSpeed : MonoBehaviour {
 			if(state.speed < minSpeed) {
 				state.speed = minSpeed;
 			}
-			if(Input.anyKeyDown) {
+			if(Input.inputString == " ") {
 				if(state.speed >= 10f) {
-					state.speed = 1f; //fast-forward
+					state.speed = 1f; //back to normal
 				}
 				else {
 					state.speed = 10f; //fast-forward
